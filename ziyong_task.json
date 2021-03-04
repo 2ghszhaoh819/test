@@ -1,5 +1,5 @@
 {
-  "name": "自用，测试",
+  "name": "ss自用，测试",
   "description": "测试",
   "task": [
     "0,30 0 * * * https://raw.githubusercontent.com/2ghszhaoh819/test/main/jd_blueCoin.js, tag=京小超兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
