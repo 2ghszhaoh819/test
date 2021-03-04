@@ -1,0 +1,14 @@
+{
+  "name": "xingliuchao自用，不解释",
+  "description": "活动到期404删除脚本，不强迫使用，不定期更新**得了便宜卖乖😔",
+  "task": [
+    "0,30 0 * * * https://raw.githubusercontent.com/2ghszhaoh819/test/main/jd_blueCoin.js, tag=京小超兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
+   
+    "*/30 * * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=悦动qz, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png, enabled=true",
+    
+    
+    
+    
+    
+  ]
+}
